@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose.bunales.ext\\Documents\\GitHub\\Black-Jack\\Black-Jack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09DA8828-B3AE-4390-88BE-943A0EB1D6E7}|Black-Jack\\Black-Jack.csproj|c:\\users\\jose.bunales.ext\\documents\\github\\black-jack\\black-jack\\black-jack\\servicios\\cartasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DA8828-B3AE-4390-88BE-943A0EB1D6E7}|Black-Jack\\Black-Jack.csproj|solutionrelative:black-jack\\servicios\\cartasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DA8828-B3AE-4390-88BE-943A0EB1D6E7}|Black-Jack\\Black-Jack.csproj|c:\\users\\jose.bunales.ext\\documents\\github\\black-jack\\black-jack\\black-jack\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DA8828-B3AE-4390-88BE-943A0EB1D6E7}|Black-Jack\\Black-Jack.csproj|solutionrelative:black-jack\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DA8828-B3AE-4390-88BE-943A0EB1D6E7}|Black-Jack\\Black-Jack.csproj|c:\\users\\jose.bunales.ext\\documents\\github\\black-jack\\black-jack\\black-jack\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09DA8828-B3AE-4390-88BE-943A0EB1D6E7}|Black-Jack\\Black-Jack.csproj|solutionrelative:black-jack\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DA8828-B3AE-4390-88BE-943A0EB1D6E7}|Black-Jack\\Black-Jack.csproj|c:\\users\\jose.bunales.ext\\documents\\github\\black-jack\\black-jack\\black-jack\\clases\\cartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DA8828-B3AE-4390-88BE-943A0EB1D6E7}|Black-Jack\\Black-Jack.csproj|solutionrelative:black-jack\\clases\\cartas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 357,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cartas.cs",
+              "DocumentMoniker": "C:\\Users\\jose.bunales.ext\\Documents\\GitHub\\Black-Jack\\Black-Jack\\Black-Jack\\Clases\\Cartas.cs",
+              "RelativeDocumentMoniker": "Black-Jack\\Clases\\Cartas.cs",
+              "ToolTip": "C:\\Users\\jose.bunales.ext\\Documents\\GitHub\\Black-Jack\\Black-Jack\\Black-Jack\\Clases\\Cartas.cs",
+              "RelativeToolTip": "Black-Jack\\Clases\\Cartas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:27:26.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartasService.cs",
+              "DocumentMoniker": "C:\\Users\\jose.bunales.ext\\Documents\\GitHub\\Black-Jack\\Black-Jack\\Black-Jack\\Servicios\\CartasService.cs",
+              "RelativeDocumentMoniker": "Black-Jack\\Servicios\\CartasService.cs",
+              "ToolTip": "C:\\Users\\jose.bunales.ext\\Documents\\GitHub\\Black-Jack\\Black-Jack\\Black-Jack\\Servicios\\CartasService.cs",
+              "RelativeToolTip": "Black-Jack\\Servicios\\CartasService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:42:42.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jose.bunales.ext\\Documents\\GitHub\\Black-Jack\\Black-Jack\\Black-Jack\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Black-Jack\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\jose.bunales.ext\\Documents\\GitHub\\Black-Jack\\Black-Jack\\Black-Jack\\Forms\\Form1.cs",
+              "RelativeToolTip": "Black-Jack\\Forms\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:26:40.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jose.bunales.ext\\Documents\\GitHub\\Black-Jack\\Black-Jack\\Black-Jack\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Black-Jack\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\jose.bunales.ext\\Documents\\GitHub\\Black-Jack\\Black-Jack\\Black-Jack\\Forms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Black-Jack\\Forms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:26:31.282Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

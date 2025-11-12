@@ -1,0 +1,16 @@
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\bin\Debug\net8.0-windows\Black-Jack.exe
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\bin\Debug\net8.0-windows\Black-Jack.deps.json
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\bin\Debug\net8.0-windows\Black-Jack.runtimeconfig.json
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\bin\Debug\net8.0-windows\Black-Jack.dll
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\bin\Debug\net8.0-windows\Black-Jack.pdb
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\Black_Jack.Form1.resources
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\Black-Jack.csproj.GenerateResource.cache
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\Black-Jack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\Black-Jack.AssemblyInfoInputs.cache
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\Black-Jack.AssemblyInfo.cs
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\Black-Jack.csproj.CoreCompileInputs.cache
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\Black-Jack.dll
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\refint\Black-Jack.dll
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\Black-Jack.pdb
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\Black-Jack.genruntimeconfig.cache
+C:\Users\jose.bunales.ext\Documents\GitHub\Black-Jack\Black-Jack\Black-Jack\obj\Debug\net8.0-windows\ref\Black-Jack.dll
